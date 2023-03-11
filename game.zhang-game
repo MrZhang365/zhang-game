@@ -1,0 +1,10 @@
+欢迎使用 zhang-game 脚本，这是一个语言。
+PS：严格来说，这其实并不能称之为语言。
+zhang-game 脚本可以帮助您快速开发网页文字游戏，下面是一些演示。
+!pause 等待用户单击网页
+!pause 即将清屏，单击网页继续
+!clear
+下面我要问你几个问题
+你喜欢吃什么？
+!ask (肉类,蔬菜) (meat.zhang-game,greens.zhang-game)
+解释器不会显示这行文字哈
